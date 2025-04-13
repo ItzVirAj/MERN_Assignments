@@ -4,12 +4,15 @@ This repository contains all the assignments submitted for the SmartInternz MERN
 
 ## 📚 Details
 
-Name: Viraj Mane  
-Registration No.: 22BCE11473  
-Institution Mail ID: virajdeepakmane2022@vitbhopal.ac.in
-Course: SmartInternz MERN Stack Development  
+**Name:** Viraj Mane  
 
-Institution: VIT Bhopal University
+**Registration No.:** 22BCE11473  
+
+**Institution Mail ID:** virajdeepakmane2022@vitbhopal.ac.in
+
+**Course:** SmartInternz MERN Stack Development  
+
+**Institution:** VIT Bhopal University
 
 ## 📅 Weekly Submissions
 
